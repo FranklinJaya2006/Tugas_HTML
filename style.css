@@ -1,0 +1,41 @@
+.centered-link {
+    display: block; 
+    text-align: center; 
+    margin: 0 auto;
+    width: fit-content; 
+}
+.right-link {
+    float: right; 
+    margin-left: 10px;
+}
+.Jarak {
+    margin-bottom: 30px;
+}
+.border {
+    float: right; 
+    margin-left: 10px;
+    border-radius: 60px;
+}
+.langkah_kiri{
+    text-indent: 30px;
+}
+.langkah_kanan{
+    float : right;
+    text-indent : -300px;
+}
+.margin_kureng{
+    margin-top : -10px
+}
+.margin_kureng_lebih{
+    margin-top : -15px
+}
+.langkah_kiri2{
+    text-indent: 30px;
+    margin-top : -10px
+}
+.Jarak2{
+    margin-bottom : 30px;
+}
+.Jarak3{
+    margin-top : -15px
+}
